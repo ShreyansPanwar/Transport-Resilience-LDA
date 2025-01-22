@@ -1,2 +1,5 @@
 # Transport-Resilience-LDA
-LDA topic modelling of Transport Resilience Research.
+Description of Data used:
+Final0: Contains the citation data of the papers used for analysis
+
+
